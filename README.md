@@ -10,48 +10,49 @@
 
 ## Initial Steps
 
-- Create a new empty repository in your own GitHub profile. Ensure that this is an empty repository. Do not even add a Readme.md file in this. Give it the name `your-github-id-bling`. So, for me, this repo would be titled, `bharat-patodi-bling`. Make this a private repository. Even if you accidentally initialized this as a public repository, you can go in the settings and change this to be a private repository.
-- Add a collaborator:
+7. Create a new empty repository in your own GitHub profile. Ensure that this is an empty repository. Do not even add a Readme.md file in this. Give it the name `your-github-id-bling`. So, for me, this repo would be titled, `bharat-patodi-bling`. Make this a private repository. Even if you accidentally initialized this as a public repository, you can go in the settings and change this to be a private repository. Here is a link to know more about [creating repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo). Here's the link to know how to [make a repository private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#making-a-repository-private).
+8. Add a collaborator:
     | First letter of Name  | Collaborator  | GitHub Id |
     |---|---|---|
     |A - M   | Bharat  | bharat-patodi |
     |N - Z   | Akkshay | akkshaylawrence |
-- Now, clone this repository in your own computer
-- Copy 3 things: (a) The complete assets folder (b) The `app.js` file (c) The `index.html` file
-- Paste all of these in your own repository. Remember to copy and paste only the mentioned files and folders.
-- Now in your **terminal**, `cd` to your personal repository. This is the one in which you just added all the files and the folder. Type in `git status`. This should show all these new files and folders that you've added.
-- Now, do `git add -all`, then `git commit "Initial Commit"` and `git push`
-- Complete all the above steps within an hour of receiving the instruction to start. This way, we get to know that you've been able to start and you don't need any assistance. Don't hesitate to ask for help. The steps can get confusing. We are all here to help!
+9. Now, clone this repository in your own computer
+10. Copy 3 things: (a) The complete `assets` folder (b) The `app.js` file (c) The `index.html` file from this repo(bling-app) to yours(your-github-id-bling). 
+11. Now in your **terminal**, `cd` to your personal repository. This is the one in which you just added all the files and the folder. Type in `git status`. This should show all these new files and folders that you've added.
+12. Now, do `git add -all`, then `git commit "Initial Commit"` and `git push`
+13. Complete all the above steps within an hour of receiving the instruction to start. This way, we get to know that you've been able to start and you don't need any assistance. Don't hesitate to ask for help. The steps can get confusing. We are all here to help!
 
 ## Further ahead
 
-- Once you've made the initial commit, you can start working on recreating the Bling App.
-- Use the video and the visuals provided.
-- You are provided with two days to complete this assessment. There is also a third additional day as extra time. So, since this assessment is supposed to start on Monday 11 am, the cutoff time would be Thursday 11 am.
-- Please ensure that you make smaller commits. At least a couple of commits every day. This keeps your code well organized and time-stamped for us to review. Smaller sized commits are appreciated. These do not form a part of your assessment but they do give the impression that you run a tidy ship.
+14. Once you've made the initial commit, you can start working on recreating the Bling App.
+15. Use the video and the visuals provided.
+16. You are provided with two days to complete this assessment. There is also a third additional day as extra time. So, since this assessment is supposed to start on Monday 11 am, the cutoff time would be Thursday 11 am.
+17. Please ensure that you make smaller commits. At least a couple of commits every day. This keeps your code well organized and time-stamped for us to review. Smaller sized commits are appreciated. These do not form a part of your assessment but they do give the impression that you run a tidy ship.
 
 ### Assets
 
-1. All the images used are provided in the `assets/images` folder.
-2. The CSS file includes a CSS Reset. You need not change anything there.
-
-### Concepts Tested
-
-- Selecting Elements
-- Manipulating Elements
-- Event Creation
-- Event Delegation
+18. All the images used are provided in the `assets/images` folder.
+19. The CSS file includes a CSS Reset. You need not change anything there.
 
 ## Final Steps
 
-- Once you think your work is complete, push the last commit to GitHub
-- Now, deploy your work
-- We'll use netlify for this
-- Go to www.netlify.com and create a new account
-- Once your account is verified, click on the "New Site from Git" button
-- On the next screen, 'Connect to Git Provider', choose GitHub and follow the authentication steps afterwards to link your GitHub account here
-- <More Steps to follow>
+20. Once you think your work is complete, push the last commit to GitHub.
+21. Now, deploy your work.
+22. We'll use netlify for this.
+23. Go to www.netlify.com and create a new account.
+24. Once your account is verified, click on the "New Site from Git" button.
+25. On the next screen, 'Connect to Git Provider', choose GitHub and follow the authentication steps afterwards to link your GitHub account here. <More Steps to follow>
+26. Here's a link for understanding [how to deploy with Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
+    
+### Concepts Tested
 
+A. Selecting Elements
+    
+B. Manipulating Elements
+    
+C. Event Creation
+    
+D. Event Delegation
 
 ## Note
 
