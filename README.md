@@ -19,7 +19,7 @@
 9. Now, clone this repository in your own computer
 10. Copy 3 things: (a) The complete `assets` folder (b) The `app.js` file (c) The `index.html` file from this repo(bling-app) to yours(your-github-id-bling). 
 11. Now in your **terminal**, `cd` to your personal repository. This is the one in which you just added all the files and the folder. Type in `git status`. This should show all these new files and folders that you've added.
-12. Now, do `git add -all`, then `git commit "Initial Commit"` and `git push`
+12. Now, do `git add -all`, then `git commit -m "Initial Commit"` and `git push`
 13. Complete all the above steps within an hour of receiving the instruction to start. This way, we get to know that you've been able to start and you don't need any assistance. Don't hesitate to ask for help. The steps can get confusing. We are all here to help!
 
 ## Further ahead
