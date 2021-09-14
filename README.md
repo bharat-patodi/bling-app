@@ -44,6 +44,7 @@
 25. Once your account is verified, click on the "New Site from Git" button.
 26. On the next screen, 'Connect to Git Provider', choose GitHub and follow the authentication steps afterwards to link your GitHub account here. <More Steps to follow>
 27. Here's a link for understanding [how to deploy with Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
+28. Name your deployment in this way: `<your-github-id>-bling.netlify.app`, so for me, it would be `bharat-patodi-bling.netlify.app`    
 28. If your deployment works, you should have a link for your version of the Bling App.
 29. Add this to the "About" section of your repository for easy access. 
 30. The "About" section is the one that you normally see in the right side of a GitHub repository's main page.
