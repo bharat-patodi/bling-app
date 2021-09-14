@@ -36,13 +36,14 @@
 
 ## Final Steps
 
-20. Once you think your work is complete, push the last commit to GitHub.
-21. Now, deploy your work.
-22. We'll use netlify for this.
-23. Go to www.netlify.com and create a new account.
-24. Once your account is verified, click on the "New Site from Git" button.
-25. On the next screen, 'Connect to Git Provider', choose GitHub and follow the authentication steps afterwards to link your GitHub account here. <More Steps to follow>
-26. Here's a link for understanding [how to deploy with Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
+20. Once you think your work is complete, create an issue titled, "Finish Bling App".
+21. Push the last commit to GitHub and close the "Finish Bling App" issue.
+22. Now, deploy your work.
+23. We'll use netlify for this.
+24. Go to www.netlify.com and create a new account.
+25. Once your account is verified, click on the "New Site from Git" button.
+26. On the next screen, 'Connect to Git Provider', choose GitHub and follow the authentication steps afterwards to link your GitHub account here. <More Steps to follow>
+27. Here's a link for understanding [how to deploy with Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
     
 ### Concepts Tested
 
